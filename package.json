@@ -18,5 +18,8 @@
   "homepage": "https://github.com/LAX-747-380/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
   }
 }
